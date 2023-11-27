@@ -1,4 +1,8 @@
-# OV H&E Elderly Prognosis
+# Convolutional neural network algorithms and hematoxylin-and-eosin–stained images predict clinical outcomes in high-grade serous ovarian cancer patients with advanced age and stage
+Chun Wai Ng1, Kwong-Kwok Wong1, Berrett C. Lawson1, Sammy Ferri-Borgogno1, Samuel C. Mok1*
+
+1 Department of Gynecologic Oncology and Reproductive Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA
+
 
 1. Download TCGA-OV tissue images
 2. Download TCGA-OV clinical data from GDC and TCGA-OV Pan-Cancer survival data from cBioportal

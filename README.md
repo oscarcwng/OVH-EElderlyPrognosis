@@ -21,7 +21,9 @@ cBioporal: https://www.cbioportal.org/study/summary?id=ov_tcga_pan_can_atlas_201
 GDC data portal: download the file with the maifest file gdc_manifest_clinical.txt using gdc data transfer tool
 
 # 3. Pre-process the images
+
 The code is in the Jupyter notebook 3.Image pre-processing.ipynb
 
-4. Model training with 5-fold cross-validation and evaluation
+# 4. Model training with 5-fold cross-validation and evaluation
+
 The code used to generate the results for TCGA data is in the Jupyter notebook 4.Training.ipynb

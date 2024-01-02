@@ -24,6 +24,6 @@ GDC data portal: download the file with the maifest file gdc_manifest_clinical.t
 
 The code is in the Jupyter notebook 3.Image pre-processing.ipynb
 
-# 4. Model training with 5-fold cross-validation and evaluation
+# 4. Model training with 5-fold cross-validation with TCGA training images and evaluation with TCGA testing images
 
 The code used to generate the results for TCGA data is in the Jupyter notebook 4.Training.ipynb
